@@ -1,0 +1,3 @@
+#"cdn"
+#!/bin/sh
+python dnsserver.py $@

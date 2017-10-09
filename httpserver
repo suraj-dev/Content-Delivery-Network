@@ -1,0 +1,3 @@
+# "cdnhttpserver"
+#!/bin/sh
+java -jar httpserver.jar $@
